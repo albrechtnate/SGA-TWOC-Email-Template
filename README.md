@@ -1,1 +1,1 @@
-# SGA-TWOC-Email-Template
+# SGA This Week on Campus HTML Email Template
